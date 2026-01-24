@@ -1,3 +1,11 @@
+## Master-brain
+
+<a href='/docs/actions/service/send-to-masterbrain.json'>Get Actions</a>
+
+Send clipboard content to a Master-brain knowledge management system for organizing your notes and building your second brain.
+
+> Configure your Master-brain API URL and optional tags when running the action.
+
 ## Write.as Collection Post
 
 <a href='/docs/actions/service/writeas-collection-post.json'>Get Actions</a>

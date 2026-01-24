@@ -1,3 +1,11 @@
+## Master-brain
+
+<a href='/docs/cn/actions/service/send-to-masterbrain.json'>获取动作</a>
+
+将剪贴板内容发送到 Master-brain 知识管理系统，帮助您整理笔记并构建第二大脑。
+
+> 运行动作时配置您的 Master-brain API 地址和可选标签。
+
 ## OpenL 翻译
 
 <a href='/docs/cn/actions/service/openl-translate.json'>获取动作</a>
